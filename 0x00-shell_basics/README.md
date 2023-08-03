@@ -2,10 +2,10 @@
 
 * shell script to print current working directory
 * shell script to list files in a directory
-* ahell script that changes current working directory to home directory
+* shell script that changes current working directory to home directory
 * shell script that displays directory content in long format
 * shell script that display directory contents including hidden file
-* shell script that diplays directory content in long format, with user and group IDs displayed numerically and shows hidden files
+* shell script that displays directory content in long format, with user and group IDs displayed numerically and shows hidden files
 * shell script that creates a directory named my_first_directory in the /tmp/ directory
 * shell script that moves the file "betty" from "/tmp/" to "/tmp/my_first_directory"
 * shell script that deletes the betty file
