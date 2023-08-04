@@ -12,3 +12,7 @@ This is directory contains files for my ALX Shell Permissions
 * shell script that adds execute permission to the owner of the file "hello"
 * shell script that adds "execute" permission to the user and group owners and group owners and adds "read" permission for others
 * shell script that adds "execute" permission to the user, group owner, and other owners of a file
+* shell script that sets the permission to the file hello as follows:
+	* Owner: no permission at all
+	* Group: no permission at all
+	* Other users: all the permissions
