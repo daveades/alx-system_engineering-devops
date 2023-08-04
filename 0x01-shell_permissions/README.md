@@ -20,3 +20,4 @@ This is directory contains files for my ALX Shell Permissions
 ```
  -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 ```
+* shell script script that sets the mode of the file "hello" to the same as "olleh’s" mode.
