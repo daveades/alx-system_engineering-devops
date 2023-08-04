@@ -9,3 +9,4 @@ This is directory contains files for my ALX Shell Permissions
 * shell script that prints all the groups a currnt user is part of
 * shell script that changes the owner of the file "hello" to "betty"
 * shell script that creates a file called "hello"
+* shell script that add execute permission to the owner of the file "hello"
