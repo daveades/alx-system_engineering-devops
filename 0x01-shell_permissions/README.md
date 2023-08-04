@@ -7,3 +7,4 @@ This is directory contains files for my ALX Shell Permissions
 * shell script that switches the current user to "betty"
 * shell script that prints the username of the current user
 * shell script that prints all the groups a currnt user is part of
+* shell script that changes the owner of the file "hello" to "betty"
