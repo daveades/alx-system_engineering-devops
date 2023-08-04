@@ -22,3 +22,4 @@ This is directory contains files for my ALX Shell Permissions
 ```
 * shell script script that sets the mode of the file "hello" to the same as "olleh’s" mode.
 * script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.Regular files should not be changed.
+* shell script that creates a directory called my_dir with permissions 751 in the working directory.
