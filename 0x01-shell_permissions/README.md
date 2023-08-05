@@ -25,3 +25,4 @@ This is directory contains files for my ALX Shell Permissions
 * shell script that creates a directory called my_dir with permissions 751 in the working directory
 * shell script that changes the group owner to school for the file hello
 * shell script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+* shell script that changes the owner and the group owner of "\_hello" to vincent and staff respectively
