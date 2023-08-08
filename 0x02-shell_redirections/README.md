@@ -7,3 +7,4 @@ This directory contains my ALX shell redirections project
 * A shell script that displays the content of the /etc/passwd file
 * A shell script that displays the content of /etc/passwd and /etc/hosts
 * A shell script that diplays the last ten lines of the /etc/passwd file
+* A shell script that displays the first 10 lines of the /etc/passwd file
