@@ -9,3 +9,4 @@ This directory contains my ALX shell redirections project
 * A shell script that diplays the last ten lines of the /etc/passwd file
 * A shell script that displays the first 10 lines of the /etc/passwd file
 * A shell script that displays the third line of the file 'iacta'
+* A shell script that creates a new file "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" with exactly the same text containing the text "Best School"
