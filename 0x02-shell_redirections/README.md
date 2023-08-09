@@ -11,3 +11,4 @@ This directory contains my ALX shell redirections project
 * A shell script that displays the third line of the file 'iacta'
 * A shell script that creates a new file "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" with exactly the same text containing the text "Best School"
 * A shell script that writes the command to a file named 'ls_cwd_content'(overwrite)
+* A shell script that duplicates the last line of the file iacta
