@@ -13,3 +13,4 @@ This directory contains my ALX shell redirections project
 * A shell script that writes the command to a file named 'ls_cwd_content'(overwrite)
 * A shell script that duplicates the last line of the file iacta
 * A shell script that deletes all files with '.js' extension in all folder snd subfolders of the current directory
+* A shell script that counts the folders and subfolders in a directory not counting hidden, present and parnt directory
