@@ -15,3 +15,4 @@ This directory contains my ALX shell redirections project
 * A shell script that deletes all files with '.js' extension in all folder snd subfolders of the current directory
 * A shell script that counts the folders and subfolders in a directory not counting hidden, present and parnt directory
 * A shell script that diplays the 10 newest files in a directory from newest to oldest
+* A shell script that takes a list of words as input and prints only the characters that appear once
