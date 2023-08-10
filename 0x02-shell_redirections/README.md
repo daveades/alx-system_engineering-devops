@@ -18,3 +18,4 @@ This directory contains my ALX shell redirections project
 * A shell script that takes a list of words as input and prints only the characters that appear once
 * A shell script that prints all lines containing the word root in the file /etc/passwd
 * A shell script that prints the number of lines that contain the pattern 'bin' in the /etc/passwd file
+* A sehell script that displays the lines containing the pattern 'root' and three lines after it 
