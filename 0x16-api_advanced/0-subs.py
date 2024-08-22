@@ -22,7 +22,3 @@ def number_of_subscribers(subreddit):
         return data.get("subscribers", 0)
     except requests.exceptions.HTTPError:
         return 0
-    except requests.exceptions.RequestException:
-        return 0
-    except Exception:
-        return 0
